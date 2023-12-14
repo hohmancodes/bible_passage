@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/siwilkins/bible_passage'
   readmes       = Dir['*'].reject{ |x| x = ~ /(^|[^.a-z])[a-z]+/ || x == "TODO" || x =~ /\.gem$/ }
   s.files       = Dir['lib/**/*', 'spec/**/*'] + readmes
-  s.has_rdoc    = false
   s.test_files  = Dir["test/**/*_test.rb"]
   s.license     = "MIT"
   s.description = <<-END

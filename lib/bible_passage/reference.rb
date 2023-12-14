@@ -25,11 +25,11 @@ module BiblePassage
           end
         end
         book_key = translator.keyify(match[1], options[:raise_errors]) || (return InvalidReference.new("#{match[1]} is not a valid book"))
-        if data_store.number_of_chapters(book_key) == 1
-          ref = process_single_chapter_match(book_key, match, options)
-        else
+     #   if data_store.number_of_chapters(book_key) == 1
+     #     ref = process_single_chapter_match(book_key, match, options)
+     #   else
           ref = process_multi_chapter_match(book_key, match, options)
-        end
+     #   end
         ref.parse_child(match[6].gsub(/^,\s*/, '')) if match[6]
         ref
       end
