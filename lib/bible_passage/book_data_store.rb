@@ -129,11 +129,11 @@ module BiblePassage
       },
       jonah: {
         name: 'Jonah',
-        chapters: [17, 11, 10, 11]
+        chapters: [17, 10, 10, 11]
       },
       mic: {
         name: 'Micah',
-        chapters: [16, 13, 12, 14, 14, 16, 20]
+        chapters: [16, 13, 12, 13, 15, 16, 20]
       },
       nah: {
         name: 'Nahum',
