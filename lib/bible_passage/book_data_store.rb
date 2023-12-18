@@ -113,7 +113,7 @@ module BiblePassage
       },
       hos: {
         name: 'Hosea',
-        chapters: [9, 23, 5, 19, 15, 11, 16, 14, 17, 15, 11, 15, 15, 10]
+        chapters: [11, 23, 5, 19, 15, 11, 16, 14, 17, 15, 12, 14, 16, 9]
       },
       joel: {
         name: 'Joel',
