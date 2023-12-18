@@ -133,7 +133,7 @@ module BiblePassage
       },
       mic: {
         name: 'Micah',
-        chapters: [16, 13, 12, 13, 15, 16, 20]
+        chapters: [16, 13, 12, 13, 15, 16, 20	]
       },
       nah: {
         name: 'Nahum',
