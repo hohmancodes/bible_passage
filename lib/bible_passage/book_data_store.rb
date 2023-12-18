@@ -89,7 +89,7 @@ module BiblePassage
       },
       song: {
         name: 'Song of Songs',
-        chapters: [17, 17, 11, 16, 16, 12, 14, 14]
+        chapters: [17, 17, 11, 16, 16, 13, 13, 14]
       },
       isa: {
         name: 'Isaiah',
