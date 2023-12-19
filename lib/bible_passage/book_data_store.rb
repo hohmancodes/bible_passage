@@ -105,7 +105,7 @@ module BiblePassage
       },
       ezek: {
         name: 'Ezekiel',
-        chapters: [28, 10, 27, 17, 17, 14, 27, 18, 11, 22, 25, 28, 23, 23, 8, 63, 24, 32, 14, 49, 37, 31, 49, 27, 17, 21, 36, 26, 21, 26, 18, 32, 33, 31, 15, 38, 28, 23, 29, 49, 26, 20, 27, 31, 25, 24, 23, 35]
+        chapters: [28, 10, 27, 17, 17, 14, 27, 18, 11, 22, 25, 28, 23, 23, 8, 63, 24, 32, 14, 49, 32, 31, 49, 27, 17, 21, 36, 26, 21, 26, 18, 32, 33, 31, 15, 38, 28, 23, 29, 49, 26, 20, 27, 31, 25, 24, 23, 35]
       },
       dan: {
         name: 'Daniel',
@@ -137,7 +137,7 @@ module BiblePassage
       },
       nah: {
         name: 'Nahum',
-        chapters: [14, 14, 19]
+        chapters: [15, 13, 19]
       },
       hab: {
         name: 'Habakkuk',
@@ -145,7 +145,7 @@ module BiblePassage
       },
       zeph: {
         name: 'Zephaniah',
-        chapters: [8, 15, 20]
+        chapters: [18, 15, 20]
       },
       hag: {
         name: 'Haggai',
@@ -157,7 +157,7 @@ module BiblePassage
       },
       mal: {
         name: 'Malachi',
-        chapters: [14, 17, 24, 6]
+        chapters: [14, 17, 18, 6]
       },
       matt: {
         name: 'Matthew',
@@ -257,7 +257,7 @@ module BiblePassage
       },
       '3john'.to_sym => {
         name: '3 John',
-        chapters: [15]
+        chapters: [14]
       },
       jude: {
         name: 'Jude',
