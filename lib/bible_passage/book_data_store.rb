@@ -153,7 +153,7 @@ module BiblePassage
       },
       zech: {
         name: 'Zechariah',
-        chapters: [21, 17, 10, 14, 11, 15, 14, 23, 17, 12, 17, 14, 9, 21]
+        chapters: [21, 13, 10, 14, 11, 15, 14, 23, 17, 12, 17, 14, 9, 21]
       },
       mal: {
         name: 'Malachi',
