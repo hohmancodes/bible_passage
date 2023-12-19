@@ -257,7 +257,7 @@ module BiblePassage
       },
       '3john'.to_sym => {
         name: '3 John',
-        chapters: [14]
+        chapters: [15]
       },
       jude: {
         name: 'Jude',
